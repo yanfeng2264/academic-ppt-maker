@@ -1,0 +1,41 @@
+{
+  "slides": [
+    {
+      "layout": "cover",
+      "title": "学术研究汇报",
+      "english": "ACADEMIC RESEARCH REPORT",
+      "subtitle": "在此填写研究主题或汇报副标题",
+      "presenter": "姓名",
+      "department": "院系与专业",
+      "date": "20XX 年 XX 月",
+      "notes": "首页模板。请替换题目、副标题、汇报人、院系与日期。"
+    },
+    {
+      "layout": "evidence",
+      "title": "研究结果与证据分析",
+      "figure": {
+        "path": null,
+        "title": "研究图 / 图表素材位",
+        "hint": "保留原始图例、单位与比例",
+        "caption": "图 1｜研究图与来源待补充",
+        "alt": "待替换的研究图或数据图，本页不含真实实验结果"
+      },
+      "points": [
+        {"title": "研究问题", "body": "概述本页的研究问题\n明确分析对象与范围"},
+        {"title": "证据解读", "body": "说明图中支持的发现\n区分观察结果与推断"},
+        {"title": "结果边界", "body": "标明适用范围与限制\n保留必要的统计条件"}
+      ],
+      "conclusion": "本页结论：在此填写由证据支持的一句话结论。",
+      "notes": "大图＋侧栏要点＋结论版式。图像为空时显示素材位，不生成或借用参考图中的实验结果。"
+    },
+    {
+      "layout": "closing",
+      "title": "感谢聆听",
+      "english": "THANK YOU",
+      "subtitle": "敬请批评指正",
+      "footer": "交流与讨论",
+      "presenter": "姓名",
+      "notes": "结束页模板。"
+    }
+  ]
+}

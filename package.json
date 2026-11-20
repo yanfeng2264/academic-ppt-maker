@@ -1,0 +1,16 @@
+{
+  "name": "university-slides",
+  "version": "0.1.0",
+  "private": true,
+  "description": "校徽取色驱动的学术汇报 PPTX / 离线 HTML 生成器",
+  "scripts": {
+    "palette": "node scripts/palette.cjs",
+    "build": "node scripts/build.cjs",
+    "check": "node scripts/check-html.cjs",
+    "check:pptx": "python scripts/render_pptx.py",
+    "test": "node --test tests/*.test.cjs"
+  },
+  "dependencies": {"pptxgenjs": "4.0.1", "sharp": "0.35.5"},
+  "devDependencies": {"playwright": "1.62.1"},
+  "engines": {"node": ">=20"}
+}

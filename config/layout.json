@@ -1,0 +1,11 @@
+{
+  "canvas": {"width": 960, "height": 540, "unitsPerInch": 72},
+  "type": {"title": 36, "coverTitle": 52, "body": 24, "sidebar": 22, "note": 14},
+  "cover": {"bandY": 132, "bandHeight": 266, "logoWidth": 216},
+  "evidence": {
+    "figure": {"x": 48, "y": 160, "w": 550, "h": 250},
+    "sidebarX": 638, "sidebarWidth": 274, "sidebarTop": 154, "sidebarStep": 100,
+    "summary": {"x": 48, "y": 468, "w": 864, "h": 48}
+  },
+  "closing": {"bandY": 430, "bandHeight": 110}
+}

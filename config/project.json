@@ -1,0 +1,19 @@
+{
+  "title": "校徽配色·学术汇报样张",
+  "school": "北京大学",
+  "purpose": "学术汇报",
+  "logos": {
+    "color": "assets/logos/pku-lockup-color.png",
+    "reverse": "assets/logos/pku-lockup-white.png",
+    "source": "https://vim.pku.edu.cn/docs/20240527144451726806.zip"
+  },
+  "theme": {"primary": null, "officialPrimary": null},
+  "fonts": {
+    "chinese": "Noto Sans SC",
+    "english": "Times New Roman",
+    "source": "assets/fonts/NotoSansSC-VF.ttf"
+  },
+  "content": "content/demo.json",
+  "outputDirectory": "output",
+  "outputName": "学术汇报_三页样张"
+}
