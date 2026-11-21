@@ -1,4 +1,4 @@
-# 校徽风格学术汇报生成项目
+# Academic PPT Maker（学术汇报 PPT）
 
 首版已实现“校徽取色 → 共用主题与内容 → 可编辑 PPTX + 离线 HTML”。首轮演示仅三页：首页、大图素材位与侧栏分析页、尾页。
 
@@ -25,7 +25,7 @@
 项目目录：
 
 ```text
-university-slides/
+academic-ppt-maker/
   SKILL.md               skill 入口
   references/            取色、输入、版式与验收说明
   config/                项目设置与几何布局

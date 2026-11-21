@@ -1,5 +1,5 @@
 {
-  "name": "university-slides",
+  "name": "academic-ppt-maker",
   "version": "0.1.0",
   "private": true,
   "description": "校徽取色驱动的学术汇报 PPTX / 离线 HTML 生成器",
